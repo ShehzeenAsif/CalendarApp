@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shehzeen Asif\\Practice\\CalendarApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF963221-AE6E-402B-A363-CF6E8EA68912}|CalendarApp\\CalendarApp.csproj|c:\\users\\shehzeen asif\\practice\\calendarapp\\calendarapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF963221-AE6E-402B-A363-CF6E8EA68912}|CalendarApp\\CalendarApp.csproj|solutionrelative:calendarapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF963221-AE6E-402B-A363-CF6E8EA68912}|CalendarApp\\CalendarApp.csproj|c:\\users\\shehzeen asif\\practice\\calendarapp\\calendarapp\\views\\locations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF963221-AE6E-402B-A363-CF6E8EA68912}|CalendarApp\\CalendarApp.csproj|solutionrelative:calendarapp\\views\\locations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF963221-AE6E-402B-A363-CF6E8EA68912}|CalendarApp\\CalendarApp.csproj|c:\\users\\shehzeen asif\\practice\\calendarapp\\calendarapp\\models\\viewmodels\\eventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF963221-AE6E-402B-A363-CF6E8EA68912}|CalendarApp\\CalendarApp.csproj|solutionrelative:calendarapp\\models\\viewmodels\\eventviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF963221-AE6E-402B-A363-CF6E8EA68912}|CalendarApp\\CalendarApp.csproj|c:\\users\\shehzeen asif\\practice\\calendarapp\\calendarapp\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF963221-AE6E-402B-A363-CF6E8EA68912}|CalendarApp\\CalendarApp.csproj|solutionrelative:calendarapp\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF963221-AE6E-402B-A363-CF6E8EA68912}|CalendarApp\\CalendarApp.csproj|c:\\users\\shehzeen asif\\practice\\calendarapp\\calendarapp\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF963221-AE6E-402B-A363-CF6E8EA68912}|CalendarApp\\CalendarApp.csproj|solutionrelative:calendarapp\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF963221-AE6E-402B-A363-CF6E8EA68912}|CalendarApp\\CalendarApp.csproj|c:\\users\\shehzeen asif\\practice\\calendarapp\\calendarapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF963221-AE6E-402B-A363-CF6E8EA68912}|CalendarApp\\CalendarApp.csproj|solutionrelative:calendarapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF963221-AE6E-402B-A363-CF6E8EA68912}|CalendarApp\\CalendarApp.csproj|c:\\users\\shehzeen asif\\practice\\calendarapp\\calendarapp\\data\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF963221-AE6E-402B-A363-CF6E8EA68912}|CalendarApp\\CalendarApp.csproj|solutionrelative:calendarapp\\data\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF963221-AE6E-402B-A363-CF6E8EA68912}|CalendarApp\\CalendarApp.csproj|c:\\users\\shehzeen asif\\practice\\calendarapp\\calendarapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF963221-AE6E-402B-A363-CF6E8EA68912}|CalendarApp\\CalendarApp.csproj|solutionrelative:calendarapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF963221-AE6E-402B-A363-CF6E8EA68912}|CalendarApp\\CalendarApp.csproj|c:\\users\\shehzeen asif\\practice\\calendarapp\\calendarapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF963221-AE6E-402B-A363-CF6E8EA68912}|CalendarApp\\CalendarApp.csproj|solutionrelative:calendarapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Shehzeen Asif\\Practice\\CalendarApp\\CalendarApp\\Models\\ViewModels\\EventViewModel.cs",
+              "RelativeDocumentMoniker": "CalendarApp\\Models\\ViewModels\\EventViewModel.cs",
+              "ToolTip": "C:\\Users\\Shehzeen Asif\\Practice\\CalendarApp\\CalendarApp\\Models\\ViewModels\\EventViewModel.cs",
+              "RelativeToolTip": "CalendarApp\\Models\\ViewModels\\EventViewModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:45:53.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shehzeen Asif\\Practice\\CalendarApp\\CalendarApp\\Views\\Event\\Index.cshtml",
+              "RelativeDocumentMoniker": "CalendarApp\\Views\\Event\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Shehzeen Asif\\Practice\\CalendarApp\\CalendarApp\\Views\\Event\\Index.cshtml",
+              "RelativeToolTip": "CalendarApp\\Views\\Event\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T12:14:53.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shehzeen Asif\\Practice\\CalendarApp\\CalendarApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CalendarApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Shehzeen Asif\\Practice\\CalendarApp\\CalendarApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CalendarApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T12:14:26.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shehzeen Asif\\Practice\\CalendarApp\\CalendarApp\\Views\\Locations\\Index.cshtml",
+              "RelativeDocumentMoniker": "CalendarApp\\Views\\Locations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Shehzeen Asif\\Practice\\CalendarApp\\CalendarApp\\Views\\Locations\\Index.cshtml",
+              "RelativeToolTip": "CalendarApp\\Views\\Locations\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T12:14:13.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shehzeen Asif\\Practice\\CalendarApp\\CalendarApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CalendarApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Shehzeen Asif\\Practice\\CalendarApp\\CalendarApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CalendarApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwC8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T10:24:15.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\Shehzeen Asif\\Practice\\CalendarApp\\CalendarApp\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "CalendarApp\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\Shehzeen Asif\\Practice\\CalendarApp\\CalendarApp\\Controllers\\EventController.cs",
+              "RelativeToolTip": "CalendarApp\\Controllers\\EventController.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAgwJgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:21:17.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Users\\Shehzeen Asif\\Practice\\CalendarApp\\CalendarApp\\Data\\DAL.cs",
+              "RelativeDocumentMoniker": "CalendarApp\\Data\\DAL.cs",
+              "ToolTip": "C:\\Users\\Shehzeen Asif\\Practice\\CalendarApp\\CalendarApp\\Data\\DAL.cs",
+              "RelativeToolTip": "CalendarApp\\Data\\DAL.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:12:07.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Shehzeen Asif\\Practice\\CalendarApp\\CalendarApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CalendarApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Shehzeen Asif\\Practice\\CalendarApp\\CalendarApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CalendarApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwCIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T12:24:10.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shehzeen Asif\\Practice\\CalendarApp\\CalendarApp\\Program.cs",
+              "RelativeDocumentMoniker": "CalendarApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Shehzeen Asif\\Practice\\CalendarApp\\CalendarApp\\Program.cs",
+              "RelativeToolTip": "CalendarApp\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:39:53.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
